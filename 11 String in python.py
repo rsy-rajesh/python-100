@@ -8,7 +8,7 @@ paragraph='India is gratest country"because of Indians"'
 print(paragraph)
 """Paragraph='India is greatest country
 we protect Dalai Lama
-'  """                     # throws an error because it not suppoer multiline print
+'  """                     # throws an error because it not support multiline print
 paragraph="""India is gratetest "India is the bigest Democracy in the world"
 "Here Rama was born"
 Jai Shree  RAM:

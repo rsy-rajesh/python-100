@@ -1,9 +1,9 @@
 
-# root@rajesh-pc:/home/rajesh/Desktop# mkdir newpy
-# root@rajesh-pc:/home/rajesh/Desktop/newpy# apt install python3.10-venv
-# root@rajesh-pc:/home/rajesh/Desktop/newpy# python3 -m venv myenv
-# root@rajesh-pc:/home/rajesh/Desktop/newpy# source myenv/bin/activate
-# myenv) root@rajesh-pc:/home/rajesh/Desktop/newpy# pip3 install pandas
+root@rajesh-pc:/home/rajesh/Desktop# mkdir newpy
+root@rajesh-pc:/home/rajesh/Desktop/newpy# apt install python3.10-venv
+root@rajesh-pc:/home/rajesh/Desktop/newpy# python3 -m venv myenv
+root@rajesh-pc:/home/rajesh/Desktop/newpy# source myenv/bin/activate
+myenv) root@rajesh-pc:/home/rajesh/Desktop/newpy# pip3 install pandas
 
 # Virtual Environment
 # A virtual environment is a tool used to isolate specific Python environments on a single machine, allowing you to work on multiple projects with different 
