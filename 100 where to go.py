@@ -18,7 +18,4 @@
 # Django - For Django, try the tutorial from the official documentation. Trust me its really good
 # Overall, the key to mastering Python (or any programming language) is to keep practicing and experimenting. Set yourself challenges, work on personal projects, and stay curious. Good luck!
 
-
-
-
-
+print("where to go")
